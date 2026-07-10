@@ -306,5 +306,6 @@ Inserts the current date and time.
 
 Now that you can open and save files, let's learn how to move around efficiently.
 ---
+---
 
-[⬆ Back to TOC](../TOC.md) | [🏠 Back to README](../README.md)
+[⬆ Back to TOC](../../TOC.md) | [🏠 Back to README](../../README.md)

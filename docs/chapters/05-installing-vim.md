@@ -362,5 +362,6 @@ If the file doesn't exist, Vim creates a new empty buffer.
 
 We'll open Vim, understand the screen layout, and learn how to perform basic tasks right away.
 ---
+---
 
-[⬆ Back to TOC](../TOC.md) | [🏠 Back to README](../README.md)
+[⬆ Back to TOC](../../TOC.md) | [🏠 Back to README](../../README.md)

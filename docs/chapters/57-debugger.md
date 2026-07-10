@@ -81,5 +81,6 @@ nnoremap <leader>di :DapStepInto<CR>
 
 Discover key mappings as you type.
 ---
+---
 
-[⬆ Back to TOC](../TOC.md) | [🏠 Back to README](../README.md)
+[⬆ Back to TOC](../../TOC.md) | [🏠 Back to README](../../README.md)

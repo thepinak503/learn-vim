@@ -186,5 +186,6 @@ This is one of the most frequently used Vim commands.
 
 Master yanking (copying) and putting (pasting) in Vim.
 ---
+---
 
-[⬆ Back to TOC](../TOC.md) | [🏠 Back to README](../README.md)
+[⬆ Back to TOC](../../TOC.md) | [🏠 Back to README](../../README.md)

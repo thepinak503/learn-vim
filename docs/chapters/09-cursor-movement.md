@@ -257,5 +257,6 @@ Open a file and try:
 
 We'll explore Vim's motion system—the grammar that powers every editing command.
 ---
+---
 
-[⬆ Back to TOC](../TOC.md) | [🏠 Back to README](../README.md)
+[⬆ Back to TOC](../../TOC.md) | [🏠 Back to README](../../README.md)

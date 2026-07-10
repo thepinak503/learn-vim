@@ -94,5 +94,6 @@ vim.api.nvim_create_autocmd("LspAttach", {
 
 Fuzzy find everything in your project.
 ---
+---
 
-[⬆ Back to TOC](../TOC.md) | [🏠 Back to README](../README.md)
+[⬆ Back to TOC](../../TOC.md) | [🏠 Back to README](../../README.md)

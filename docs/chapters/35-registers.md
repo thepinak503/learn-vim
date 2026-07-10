@@ -94,5 +94,6 @@ Shows specific registers.
 
 Set waypoints in your files for quick navigation.
 ---
+---
 
-[⬆ Back to TOC](../TOC.md) | [🏠 Back to README](../README.md)
+[⬆ Back to TOC](../../TOC.md) | [🏠 Back to README](../../README.md)

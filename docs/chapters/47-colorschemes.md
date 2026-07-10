@@ -104,5 +104,6 @@ Required for modern colorschemes.
 
 Get started with Neovim.
 ---
+---
 
-[⬆ Back to TOC](../TOC.md) | [🏠 Back to README](../README.md)
+[⬆ Back to TOC](../../TOC.md) | [🏠 Back to README](../../README.md)

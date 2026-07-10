@@ -86,5 +86,6 @@ It installs:
 
 Set up language server protocol in Neovim.
 ---
+---
 
-[⬆ Back to TOC](../TOC.md) | [🏠 Back to README](../README.md)
+[⬆ Back to TOC](../../TOC.md) | [🏠 Back to README](../../README.md)

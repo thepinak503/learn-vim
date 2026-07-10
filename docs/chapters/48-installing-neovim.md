@@ -120,5 +120,6 @@ Or for Vimscript:
 
 The modern plugin manager for Neovim.
 ---
+---
 
-[⬆ Back to TOC](../TOC.md) | [🏠 Back to README](../README.md)
+[⬆ Back to TOC](../../TOC.md) | [🏠 Back to README](../../README.md)

@@ -98,5 +98,6 @@ nnoremap <leader>bp :bp<CR>
 
 Extend Vim with plugins.
 ---
+---
 
-[⬆ Back to TOC](../TOC.md) | [🏠 Back to README](../README.md)
+[⬆ Back to TOC](../../TOC.md) | [🏠 Back to README](../../README.md)

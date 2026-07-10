@@ -77,5 +77,6 @@ Ctrl+^      →   Switch to alternate file
 
 Tips to boost your daily Vim productivity.
 ---
+---
 
-[⬆ Back to TOC](../TOC.md) | [🏠 Back to README](../README.md)
+[⬆ Back to TOC](../../TOC.md) | [🏠 Back to README](../../README.md)

@@ -150,5 +150,6 @@ Repetition builds muscle memory.
 
 Your quick reference for all Vim commands.
 ---
+---
 
-[⬆ Back to TOC](../TOC.md) | [🏠 Back to README](../README.md)
+[⬆ Back to TOC](../../TOC.md) | [🏠 Back to README](../../README.md)

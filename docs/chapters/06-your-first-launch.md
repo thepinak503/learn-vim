@@ -361,5 +361,6 @@ Press **Escape** a few times to reset to normal mode.
 
 The most important concept in Vim. We'll explore all four modes, when to use each, and how to switch between them efficiently.
 ---
+---
 
-[⬆ Back to TOC](../TOC.md) | [🏠 Back to README](../README.md)
+[⬆ Back to TOC](../../TOC.md) | [🏠 Back to README](../../README.md)

@@ -77,5 +77,6 @@ require("which-key").register({
 
 Practical editing workflows for daily coding.
 ---
+---
 
-[⬆ Back to TOC](../TOC.md) | [🏠 Back to README](../README.md)
+[⬆ Back to TOC](../../TOC.md) | [🏠 Back to README](../../README.md)

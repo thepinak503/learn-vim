@@ -235,5 +235,6 @@ To search for them literally, **escape** them with `\`:
 
 Learn all the ways to enter and exit insert mode efficiently.
 ---
+---
 
-[⬆ Back to TOC](../TOC.md) | [🏠 Back to README](../README.md)
+[⬆ Back to TOC](../../TOC.md) | [🏠 Back to README](../../README.md)

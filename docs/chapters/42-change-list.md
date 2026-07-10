@@ -71,5 +71,6 @@ Each entry in the change list can be repeated with `.` if you reapply the edit.
 
 Configure Vim with your personal settings.
 ---
+---
 
-[⬆ Back to TOC](../TOC.md) | [🏠 Back to README](../README.md)
+[⬆ Back to TOC](../../TOC.md) | [🏠 Back to README](../../README.md)

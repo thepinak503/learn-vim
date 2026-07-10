@@ -74,5 +74,6 @@ Jumps are recorded for:
 
 Track and navigate your edit history.
 ---
+---
 
-[⬆ Back to TOC](../TOC.md) | [🏠 Back to README](../README.md)
+[⬆ Back to TOC](../../TOC.md) | [🏠 Back to README](../../README.md)

@@ -156,5 +156,6 @@ Carol   SF
 
 Edit structured text objects like words with precision.
 ---
+---
 
-[⬆ Back to TOC](../TOC.md) | [🏠 Back to README](../README.md)
+[⬆ Back to TOC](../../TOC.md) | [🏠 Back to README](../../README.md)

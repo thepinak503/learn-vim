@@ -77,5 +77,6 @@ Replace `user@domain` with `user at domain`.
 
 Navigate your search history like a pro.
 ---
+---
 
-[⬆ Back to TOC](../TOC.md) | [🏠 Back to README](../README.md)
+[⬆ Back to TOC](../../TOC.md) | [🏠 Back to README](../../README.md)

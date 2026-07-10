@@ -164,5 +164,6 @@ Replaces `hello world` with `hello there`.
 
 Master the dot command — Vim's most powerful repetition tool.
 ---
+---
 
-[⬆ Back to TOC](../TOC.md) | [🏠 Back to README](../README.md)
+[⬆ Back to TOC](../../TOC.md) | [🏠 Back to README](../../README.md)

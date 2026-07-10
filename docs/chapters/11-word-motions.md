@@ -207,5 +207,6 @@ Open a file and try:
 
 Master navigating to the beginnings and ends of lines—indispensable for editing code.
 ---
+---
 
-[⬆ Back to TOC](../TOC.md) | [🏠 Back to README](../README.md)
+[⬆ Back to TOC](../../TOC.md) | [🏠 Back to README](../../README.md)

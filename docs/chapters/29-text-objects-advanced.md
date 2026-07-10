@@ -119,5 +119,6 @@ These are like `i{` / `a{` but operate on the outermost block.
 
 Master complex search and replace operations.
 ---
+---
 
-[⬆ Back to TOC](../TOC.md) | [🏠 Back to README](../README.md)
+[⬆ Back to TOC](../../TOC.md) | [🏠 Back to README](../../README.md)

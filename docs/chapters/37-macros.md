@@ -140,5 +140,6 @@ Capital letter = append.
 
 Work with multiple files using Vim's buffer system.
 ---
+---
 
-[⬆ Back to TOC](../TOC.md) | [🏠 Back to README](../README.md)
+[⬆ Back to TOC](../../TOC.md) | [🏠 Back to README](../../README.md)

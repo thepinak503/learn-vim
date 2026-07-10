@@ -69,5 +69,6 @@ They let you organize different working contexts.
 
 Navigate through your cursor position history.
 ---
+---
 
-[⬆ Back to TOC](../TOC.md) | [🏠 Back to README](../README.md)
+[⬆ Back to TOC](../../TOC.md) | [🏠 Back to README](../../README.md)

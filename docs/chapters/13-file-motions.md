@@ -219,5 +219,6 @@ Ctrl+i      →   forward again
 
 Find any word or pattern in your file instantly using Vim's powerful search features.
 ---
+---
 
-[⬆ Back to TOC](../TOC.md) | [🏠 Back to README](../README.md)
+[⬆ Back to TOC](../../TOC.md) | [🏠 Back to README](../../README.md)

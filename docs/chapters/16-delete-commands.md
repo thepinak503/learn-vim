@@ -182,5 +182,6 @@ All deletions can be undone.
 
 Learn how to delete text and immediately enter insert mode to replace it.
 ---
+---
 
-[⬆ Back to TOC](../TOC.md) | [🏠 Back to README](../README.md)
+[⬆ Back to TOC](../../TOC.md) | [🏠 Back to README](../../README.md)

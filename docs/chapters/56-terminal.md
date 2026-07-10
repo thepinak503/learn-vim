@@ -73,5 +73,6 @@ tnoremap <Esc> <C-\><C-n>
 
 Debug your code inside Neovim.
 ---
+---
 
-[⬆ Back to TOC](../TOC.md) | [🏠 Back to README](../README.md)
+[⬆ Back to TOC](../../TOC.md) | [🏠 Back to README](../../README.md)

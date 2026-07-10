@@ -86,5 +86,6 @@ gc3j        →   Comment 3 lines down
 
 Efficient refactoring techniques in Vim.
 ---
+---
 
-[⬆ Back to TOC](../TOC.md) | [🏠 Back to README](../README.md)
+[⬆ Back to TOC](../../TOC.md) | [🏠 Back to README](../../README.md)

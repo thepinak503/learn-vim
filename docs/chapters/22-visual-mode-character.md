@@ -133,5 +133,6 @@ The fox jumps over the lazy dog.
 
 Select entire lines in visual mode for efficient line-based editing.
 ---
+---
 
-[⬆ Back to TOC](../TOC.md) | [🏠 Back to README](../README.md)
+[⬆ Back to TOC](../../TOC.md) | [🏠 Back to README](../../README.md)

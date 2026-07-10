@@ -295,5 +295,6 @@ Vim can autocomplete words while you type:
 
 Master deleting text efficiently in Vim—from single characters to entire blocks.
 ---
+---
 
-[⬆ Back to TOC](../TOC.md) | [🏠 Back to README](../README.md)
+[⬆ Back to TOC](../../TOC.md) | [🏠 Back to README](../../README.md)

@@ -84,5 +84,6 @@ p           →   Paste below
 
 Advanced navigation techniques.
 ---
+---
 
-[⬆ Back to TOC](../TOC.md) | [🏠 Back to README](../README.md)
+[⬆ Back to TOC](../../TOC.md) | [🏠 Back to README](../../README.md)

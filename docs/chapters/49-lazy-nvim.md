@@ -112,5 +112,6 @@ require("lazy").setup({
 
 Better syntax highlighting and code analysis.
 ---
+---
 
-[⬆ Back to TOC](../TOC.md) | [🏠 Back to README](../README.md)
+[⬆ Back to TOC](../../TOC.md) | [🏠 Back to README](../../README.md)

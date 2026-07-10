@@ -97,5 +97,6 @@ Reload the configuration without restarting.
 
 Essential Vim settings every user should know.
 ---
+---
 
-[⬆ Back to TOC](../TOC.md) | [🏠 Back to README](../README.md)
+[⬆ Back to TOC](../../TOC.md) | [🏠 Back to README](../../README.md)

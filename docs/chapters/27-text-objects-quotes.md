@@ -118,5 +118,6 @@ The commands are the same — just swap the quote character:
 
 Edit inside brackets, braces, and HTML tags.
 ---
+---
 
-[⬆ Back to TOC](../TOC.md) | [🏠 Back to README](../README.md)
+[⬆ Back to TOC](../../TOC.md) | [🏠 Back to README](../../README.md)

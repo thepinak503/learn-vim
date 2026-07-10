@@ -79,5 +79,6 @@ Master them to edit at the speed of thought.
 
 Master Vim's search capabilities with regular expressions.
 ---
+---
 
-[⬆ Back to TOC](../TOC.md) | [🏠 Back to README](../README.md)
+[⬆ Back to TOC](../../TOC.md) | [🏠 Back to README](../../README.md)

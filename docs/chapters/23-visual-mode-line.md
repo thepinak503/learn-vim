@@ -122,5 +122,6 @@ While in visual mode, you can switch:
 
 Select rectangular blocks of text for column editing.
 ---
+---
 
-[⬆ Back to TOC](../TOC.md) | [🏠 Back to README](../README.md)
+[⬆ Back to TOC](../../TOC.md) | [🏠 Back to README](../../README.md)

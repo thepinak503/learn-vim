@@ -204,5 +204,6 @@ If you change inside quotes with `ci"`, then press `.` somewhere else inside quo
 
 Master word-level navigation—the motions you'll use most frequently.
 ---
+---
 
-[⬆ Back to TOC](../TOC.md) | [🏠 Back to README](../README.md)
+[⬆ Back to TOC](../../TOC.md) | [🏠 Back to README](../../README.md)

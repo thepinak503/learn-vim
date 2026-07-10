@@ -71,5 +71,6 @@ Marks let you save cursor positions and jump back to them later.
 
 Record and replay sequences of commands.
 ---
+---
 
-[⬆ Back to TOC](../TOC.md) | [🏠 Back to README](../README.md)
+[⬆ Back to TOC](../../TOC.md) | [🏠 Back to README](../../README.md)

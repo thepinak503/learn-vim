@@ -95,5 +95,6 @@ It's slower at first, but much faster in the long run.
 
 Avoid these common Vim pitfalls.
 ---
+---
 
-[⬆ Back to TOC](../TOC.md) | [🏠 Back to README](../README.md)
+[⬆ Back to TOC](../../TOC.md) | [🏠 Back to README](../../README.md)

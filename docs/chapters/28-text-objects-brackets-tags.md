@@ -119,5 +119,6 @@ vector<> myVector;
 
 Master advanced text objects for sentences, paragraphs, and more.
 ---
+---
 
-[⬆ Back to TOC](../TOC.md) | [🏠 Back to README](../README.md)
+[⬆ Back to TOC](../../TOC.md) | [🏠 Back to README](../../README.md)

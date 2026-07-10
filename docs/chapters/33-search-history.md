@@ -65,5 +65,6 @@ Sets the search pattern to `foo`.
 
 Advanced replacement techniques with patterns.
 ---
+---
 
-[⬆ Back to TOC](../TOC.md) | [🏠 Back to README](../README.md)
+[⬆ Back to TOC](../../TOC.md) | [🏠 Back to README](../../README.md)

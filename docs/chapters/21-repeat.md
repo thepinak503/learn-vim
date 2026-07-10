@@ -136,5 +136,6 @@ This means compound commands like `ci"`, `daw`, `c$` are all repeatable.
 
 Select text character by character in visual mode.
 ---
+---
 
-[⬆ Back to TOC](../TOC.md) | [🏠 Back to README](../README.md)
+[⬆ Back to TOC](../../TOC.md) | [🏠 Back to README](../../README.md)

@@ -77,5 +77,6 @@ Replace in visual selection (automatic when selecting then `:`).
 
 Master Vim's multiple clipboards.
 ---
+---
 
-[⬆ Back to TOC](../TOC.md) | [🏠 Back to README](../README.md)
+[⬆ Back to TOC](../../TOC.md) | [🏠 Back to README](../../README.md)

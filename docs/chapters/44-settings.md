@@ -97,5 +97,6 @@ set writebackup        " Write backup before overwriting
 
 Create custom key mappings to supercharge your workflow.
 ---
+---
 
-[⬆ Back to TOC](../TOC.md) | [🏠 Back to README](../README.md)
+[⬆ Back to TOC](../../TOC.md) | [🏠 Back to README](../../README.md)

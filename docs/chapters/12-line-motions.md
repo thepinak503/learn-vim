@@ -155,5 +155,6 @@ Line 1 Line 2
 
 Navigate across an entire file in seconds using jumps and scroll commands.
 ---
+---
 
-[⬆ Back to TOC](../TOC.md) | [🏠 Back to README](../README.md)
+[⬆ Back to TOC](../../TOC.md) | [🏠 Back to README](../../README.md)
