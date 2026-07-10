@@ -73,6 +73,6 @@ Vim's search supports regular expressions (regex) for powerful pattern matching.
 
 ## Next Chapter
 
-**Chapter 32 — Regex in Vim**
+[**Chapter 32 — Regex in Vim**](32-regex.md)
 
 Deeper dive into Vim's regex syntax.

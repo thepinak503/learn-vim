@@ -75,6 +75,6 @@ Master them to edit at the speed of thought.
 
 ## Next Chapter
 
-**Chapter 31 — Search Patterns**
+[**Chapter 31 — Search Patterns**](31-search-patterns.md)
 
 Master Vim's search capabilities with regular expressions.

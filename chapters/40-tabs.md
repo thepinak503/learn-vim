@@ -65,6 +65,6 @@ They let you organize different working contexts.
 
 ## Next Chapter
 
-**Chapter 41 — Jump List**
+[**Chapter 41 — Jump List**](41-jump-list.md)
 
 Navigate through your cursor position history.

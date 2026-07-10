@@ -75,6 +75,6 @@ With lazy.nvim:
 
 ## Next Chapter
 
-**Chapter 51 — Mason**
+[**Chapter 51 — Mason**](51-mason.md)
 
 Install LSP servers, linters, and formatters.

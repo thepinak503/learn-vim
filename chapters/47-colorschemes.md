@@ -100,6 +100,6 @@ Required for modern colorschemes.
 
 ## Next Chapter
 
-**Chapter 48 — Installing Neovim**
+[**Chapter 48 — Installing Neovim**](48-installing-neovim.md)
 
 Get started with Neovim.

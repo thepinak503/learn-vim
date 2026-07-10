@@ -114,6 +114,6 @@ The commands are the same — just swap the quote character:
 
 ## Next Chapter
 
-**Chapter 28 — Text Objects: Brackets and Tags**
+[**Chapter 28 — Text Objects: Brackets and Tags**](28-text-objects-brackets-tags.md)
 
 Edit inside brackets, braces, and HTML tags.

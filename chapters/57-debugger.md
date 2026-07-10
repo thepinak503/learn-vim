@@ -77,6 +77,6 @@ nnoremap <leader>di :DapStepInto<CR>
 
 ## Next Chapter
 
-**Chapter 58 — Which-key**
+[**Chapter 58 — Which-key**](58-which-key.md)
 
 Discover key mappings as you type.

@@ -91,6 +91,6 @@ It's slower at first, but much faster in the long run.
 
 ## Next Chapter
 
-**Chapter 63 — Common Mistakes**
+[**Chapter 63 — Common Mistakes**](63-common-mistakes.md)
 
 Avoid these common Vim pitfalls.

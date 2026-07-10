@@ -136,6 +136,6 @@ Capital letter = append.
 
 ## Next Chapter
 
-**Chapter 38 — Buffers**
+[**Chapter 38 — Buffers**](38-buffers.md)
 
 Work with multiple files using Vim's buffer system.

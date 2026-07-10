@@ -302,6 +302,6 @@ Inserts the current date and time.
 
 ## Next Chapter
 
-**Chapter 9 — Cursor Movement**
+[**Chapter 9 — Cursor Movement**](09-cursor-movement.md)
 
 Now that you can open and save files, let's learn how to move around efficiently.

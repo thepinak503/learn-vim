@@ -80,6 +80,6 @@ p           →   Paste below
 
 ## Next Chapter
 
-**Chapter 61 — Navigation Tricks**
+[**Chapter 61 — Navigation Tricks**](61-navigation-tricks.md)
 
 Advanced navigation techniques.

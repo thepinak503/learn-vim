@@ -67,6 +67,6 @@ Each entry in the change list can be repeated with `.` if you reapply the edit.
 
 ## Next Chapter
 
-**Chapter 43 — vimrc Configuration**
+[**Chapter 43 — vimrc Configuration**](43-vimrc.md)
 
 Configure Vim with your personal settings.

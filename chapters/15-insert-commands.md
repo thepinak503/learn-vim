@@ -291,6 +291,6 @@ Vim can autocomplete words while you type:
 
 ## Next Chapter
 
-**Chapter 16 — Delete Commands**
+[**Chapter 16 — Delete Commands**](16-delete-commands.md)
 
 Master deleting text efficiently in Vim—from single characters to entire blocks.

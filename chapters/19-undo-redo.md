@@ -133,6 +133,6 @@ This lets you undo changes even after closing and reopening a file.
 
 ## Next Chapter
 
-**Chapter 20 — Replace**
+[**Chapter 20 — Replace**](20-replace.md)
 
 Replace characters and text patterns in Vim.

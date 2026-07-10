@@ -90,6 +90,6 @@ vim.api.nvim_create_autocmd("LspAttach", {
 
 ## Next Chapter
 
-**Chapter 53 — Telescope**
+[**Chapter 53 — Telescope**](53-telescope.md)
 
 Fuzzy find everything in your project.

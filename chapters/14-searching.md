@@ -231,6 +231,6 @@ To search for them literally, **escape** them with `\`:
 
 ## Next Chapter
 
-**Chapter 15 — Insert Commands**
+[**Chapter 15 — Insert Commands**](15-insert-commands.md)
 
 Learn all the ways to enter and exit insert mode efficiently.

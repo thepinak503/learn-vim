@@ -98,6 +98,6 @@ Then:
 
 ## Next Chapter
 
-**Chapter 47 — Colorschemes**
+[**Chapter 47 — Colorschemes**](47-colorschemes.md)
 
 Customize the look of your editor.

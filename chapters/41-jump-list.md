@@ -70,6 +70,6 @@ Jumps are recorded for:
 
 ## Next Chapter
 
-**Chapter 42 — Change List**
+[**Chapter 42 — Change List**](42-change-list.md)
 
 Track and navigate your edit history.

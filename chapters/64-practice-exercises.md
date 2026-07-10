@@ -146,6 +146,6 @@ Repetition builds muscle memory.
 
 ## Next Chapter
 
-**Chapter 65 — Cheat Sheet**
+[**Chapter 65 — Cheat Sheet**](65-cheat-sheet.md)
 
 Your quick reference for all Vim commands.

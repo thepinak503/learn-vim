@@ -73,6 +73,6 @@ Replace `user@domain` with `user at domain`.
 
 ## Next Chapter
 
-**Chapter 33 — Search History**
+[**Chapter 33 — Search History**](33-search-history.md)
 
 Navigate your search history like a pro.

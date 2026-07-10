@@ -93,6 +93,6 @@ end)
 
 ## Next Chapter
 
-**Chapter 56 — Terminal**
+[**Chapter 56 — Terminal**](56-terminal.md)
 
 Use the terminal inside Neovim.

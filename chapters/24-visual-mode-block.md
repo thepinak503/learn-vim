@@ -152,6 +152,6 @@ Carol   SF
 
 ## Next Chapter
 
-**Chapter 25 — Text Objects: iw and aw**
+[**Chapter 25 — Text Objects: iw and aw**](25-text-objects-iw-aw.md)
 
 Edit structured text objects like words with precision.

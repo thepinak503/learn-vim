@@ -151,6 +151,6 @@ Line 1 Line 2
 
 ## Next Chapter
 
-**Chapter 13 — File Motions**
+[**Chapter 13 — File Motions**](13-file-motions.md)
 
 Navigate across an entire file in seconds using jumps and scroll commands.

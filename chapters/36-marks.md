@@ -67,6 +67,6 @@ Marks let you save cursor positions and jump back to them later.
 
 ## Next Chapter
 
-**Chapter 37 — Macros**
+[**Chapter 37 — Macros**](37-macros.md)
 
 Record and replay sequences of commands.

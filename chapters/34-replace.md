@@ -73,6 +73,6 @@ Replace in visual selection (automatic when selecting then `:`).
 
 ## Next Chapter
 
-**Chapter 35 — Registers**
+[**Chapter 35 — Registers**](35-registers.md)
 
 Master Vim's multiple clipboards.

@@ -115,6 +115,6 @@ vector<> myVector;
 
 ## Next Chapter
 
-**Chapter 29 — Text Objects: Advanced**
+[**Chapter 29 — Text Objects: Advanced**](29-text-objects-advanced.md)
 
 Master advanced text objects for sentences, paragraphs, and more.

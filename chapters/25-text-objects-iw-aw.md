@@ -139,6 +139,6 @@ ciw → "The  brown fox" (insert mode, "quick" deleted)
 
 ## Next Chapter
 
-**Chapter 26 — Text Objects: Parentheses**
+[**Chapter 26 — Text Objects: Parentheses**](26-text-objects-parentheses.md)
 
 Edit text inside parentheses with surgical precision.

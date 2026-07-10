@@ -90,6 +90,6 @@ vim.keymap.set("n", "<leader>fb", require("telescope.builtin").buffers)
 
 ## Next Chapter
 
-**Chapter 54 — nvim-cmp**
+[**Chapter 54 — nvim-cmp**](54-nvim-cmp.md)
 
 Autocompletion for Neovim.

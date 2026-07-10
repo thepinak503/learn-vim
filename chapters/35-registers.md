@@ -90,6 +90,6 @@ Shows specific registers.
 
 ## Next Chapter
 
-**Chapter 36 — Marks**
+[**Chapter 36 — Marks**](36-marks.md)
 
 Set waypoints in your files for quick navigation.

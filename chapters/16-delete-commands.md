@@ -178,6 +178,6 @@ All deletions can be undone.
 
 ## Next Chapter
 
-**Chapter 17 — Change Commands**
+[**Chapter 17 — Change Commands**](17-change-commands.md)
 
 Learn how to delete text and immediately enter insert mode to replace it.

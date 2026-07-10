@@ -132,6 +132,6 @@ This means compound commands like `ci"`, `daw`, `c$` are all repeatable.
 
 ## Next Chapter
 
-**Chapter 22 — Visual Mode: Character Selection**
+[**Chapter 22 — Visual Mode: Character Selection**](22-visual-mode-character.md)
 
 Select text character by character in visual mode.

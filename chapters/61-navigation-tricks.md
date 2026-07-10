@@ -73,6 +73,6 @@ Ctrl+^      →   Switch to alternate file
 
 ## Next Chapter
 
-**Chapter 62 — Productivity Tips**
+[**Chapter 62 — Productivity Tips**](62-productivity-tips.md)
 
 Tips to boost your daily Vim productivity.

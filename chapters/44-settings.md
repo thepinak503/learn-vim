@@ -93,6 +93,6 @@ set writebackup        " Write backup before overwriting
 
 ## Next Chapter
 
-**Chapter 45 — Keymaps**
+[**Chapter 45 — Keymaps**](45-keymaps.md)
 
 Create custom key mappings to supercharge your workflow.

@@ -108,6 +108,6 @@ require("lazy").setup({
 
 ## Next Chapter
 
-**Chapter 50 — Treesitter**
+[**Chapter 50 — Treesitter**](50-treesitter.md)
 
 Better syntax highlighting and code analysis.

@@ -200,6 +200,6 @@ If you change inside quotes with `ci"`, then press `.` somewhere else inside quo
 
 ## Next Chapter
 
-**Chapter 11 — Word Motions**
+[**Chapter 11 — Word Motions**](11-word-motions.md)
 
 Master word-level navigation—the motions you'll use most frequently.

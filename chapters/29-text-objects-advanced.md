@@ -115,6 +115,6 @@ These are like `i{` / `a{` but operate on the outermost block.
 
 ## Next Chapter
 
-**Chapter 30 — Advanced Editing: Search and Replace**
+[**Chapter 30 — Advanced Editing: Search and Replace**](30-advanced-text-objects.md)
 
 Master complex search and replace operations.

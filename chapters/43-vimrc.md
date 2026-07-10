@@ -93,6 +93,6 @@ Reload the configuration without restarting.
 
 ## Next Chapter
 
-**Chapter 44 — Settings**
+[**Chapter 44 — Settings**](44-settings.md)
 
 Essential Vim settings every user should know.

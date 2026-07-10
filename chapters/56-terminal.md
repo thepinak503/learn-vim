@@ -69,6 +69,6 @@ tnoremap <Esc> <C-\><C-n>
 
 ## Next Chapter
 
-**Chapter 57 — Debugger**
+[**Chapter 57 — Debugger**](57-debugger.md)
 
 Debug your code inside Neovim.

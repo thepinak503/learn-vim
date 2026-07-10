@@ -116,6 +116,6 @@ Or for Vimscript:
 
 ## Next Chapter
 
-**Chapter 49 — lazy.nvim**
+[**Chapter 49 — lazy.nvim**](49-lazy-nvim.md)
 
 The modern plugin manager for Neovim.

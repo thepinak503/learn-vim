@@ -80,6 +80,6 @@ Shows all buffers with their state:
 
 ## Next Chapter
 
-**Chapter 39 — Windows**
+[**Chapter 39 — Windows**](39-windows.md)
 
 Split your workspace into multiple windows.

@@ -95,6 +95,6 @@ It provides:
 
 ## Next Chapter
 
-**Chapter 55 — Git Integration**
+[**Chapter 55 — Git Integration**](55-git.md)
 
 Use Git inside Neovim.

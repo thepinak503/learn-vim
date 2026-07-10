@@ -215,6 +215,6 @@ Ctrl+i      →   forward again
 
 ## Next Chapter
 
-**Chapter 14 — Searching**
+[**Chapter 14 — Searching**](14-searching.md)
 
 Find any word or pattern in your file instantly using Vim's powerful search features.

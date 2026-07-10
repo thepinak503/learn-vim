@@ -118,6 +118,6 @@ While in visual mode, you can switch:
 
 ## Next Chapter
 
-**Chapter 24 — Visual Mode: Block Selection**
+[**Chapter 24 — Visual Mode: Block Selection**](24-visual-mode-block.md)
 
 Select rectangular blocks of text for column editing.

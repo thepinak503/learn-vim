@@ -61,6 +61,6 @@ Sets the search pattern to `foo`.
 
 ## Next Chapter
 
-**Chapter 34 — Replace**
+[**Chapter 34 — Replace**](34-replace.md)
 
 Advanced replacement techniques with patterns.

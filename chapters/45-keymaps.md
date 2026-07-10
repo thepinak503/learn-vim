@@ -94,6 +94,6 @@ nnoremap <leader>bp :bp<CR>
 
 ## Next Chapter
 
-**Chapter 46 — Plugins**
+[**Chapter 46 — Plugins**](46-plugins.md)
 
 Extend Vim with plugins.

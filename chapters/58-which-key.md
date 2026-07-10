@@ -73,6 +73,6 @@ require("which-key").register({
 
 ## Next Chapter
 
-**Chapter 59 — Editing Code**
+[**Chapter 59 — Editing Code**](59-editing-code.md)
 
 Practical editing workflows for daily coding.
