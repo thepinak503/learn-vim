@@ -118,40 +118,44 @@
   line-height: 1.6;
 }
 
-/* --- Sidebar --- */
-.VPSidebar {
-  background: var(--vp-sidebar-bg-color) !important;
-  backdrop-filter: blur(8px);
+/* --- Sidebar (desktop only) --- */
+@media (min-width: 960px) {
+  .VPSidebar {
+    background: var(--vp-sidebar-bg-color);
+    backdrop-filter: blur(8px);
+  }
+
+  .VPSidebar .group + .group {
+    border-top: 1px solid var(--vp-c-divider);
+    padding-top: 8px;
+    margin-top: 8px;
+  }
+
+  .VPSidebar .item .link:hover {
+    color: var(--vp-c-brand-1);
+  }
+
+  .VPSidebar .item .link.active {
+    background: var(--vp-c-brand-soft);
+    border-right: 3px solid var(--vp-c-brand-1);
+  }
 }
 
-.VPSidebar .group + .group {
-  border-top: 1px solid var(--vp-c-divider);
-  padding-top: 8px;
-  margin-top: 8px;
-}
+/* --- Nav (desktop only) --- */
+@media (min-width: 960px) {
+  .VPNav {
+    backdrop-filter: blur(12px);
+    background: rgba(255, 255, 255, 0.7);
+    border-bottom: 1px solid var(--vp-c-divider);
+  }
 
-.VPSidebar .item .link:hover {
-  color: var(--vp-c-brand-1);
-}
-
-.VPSidebar .item .link.active {
-  background: var(--vp-c-brand-soft);
-  border-right: 3px solid var(--vp-c-brand-1);
-}
-
-/* --- Nav --- */
-.VPNav {
-  backdrop-filter: blur(12px);
-  background: rgba(255, 255, 255, 0.7) !important;
-  border-bottom: 1px solid var(--vp-c-divider);
-}
-
-.dark .VPNav {
-  background: rgba(15, 23, 42, 0.7) !important;
-}
-
-.VPNav .item.active > a {
-  color: var(--vp-c-brand-1) !important;
+  .dark .VPNav {
+    background: rgba(15, 23, 42, 0.7);
+  }
+  
+  .VPNav .item.active > a {
+    color: var(--vp-c-brand-1);
+  }
 }
 
 /* --- Code Blocks: Vim Terminal Vibe --- */
