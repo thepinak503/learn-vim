@@ -6,8 +6,8 @@ hero:
   text: "The Complete Handbook (2026)"
   tagline: From absolute beginner to advanced user — 65 chapters covering everything you need to master Vim and Neovim.
   image:
-    src: /vim-logo.png
-    alt: Vim
+    src: /vim-neovim-logo.svg
+    alt: Vim & Neovim
   actions:
     - theme: brand
       text: 📖 Start Learning
@@ -15,6 +15,9 @@ hero:
     - theme: alt
       text: 📋 Quick Cheat Sheet
       link: /cheat-sheet/
+    - theme: alt
+      text: 🏋️ Practice Exercises
+      link: /practice/
 
 features:
   - title: 🏗️ Foundations

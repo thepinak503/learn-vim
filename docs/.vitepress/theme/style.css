@@ -1,0 +1,308 @@
+/* ============================================
+   Learn Vim & Neovim — Custom Theme
+   Vim-inspired colors with modern design
+   ============================================ */
+
+/* --- CSS Variables (Light Mode) --- */
+:root {
+  --vp-c-brand-1: #16a34a;
+  --vp-c-brand-2: #22c55e;
+  --vp-c-brand-3: #15803d;
+  --vp-c-brand-soft: rgba(22, 163, 74, 0.14);
+  --vp-c-brand-light: #4ade80;
+  --vp-c-brand-lighter: #86efac;
+  --vp-c-brand-dark: #166534;
+  --vp-c-brand-darker: #14532d;
+
+  --vp-home-hero-name-color: transparent;
+  --vp-home-hero-name-background: linear-gradient(135deg, #16a34a, #22c55e, #4ade80);
+  --vp-home-hero-image-background-image: linear-gradient(135deg, #16a34a33 0%, #22c55e33 50%, #4ade8033 100%);
+  --vp-home-hero-image-filter: blur(72px);
+
+  --vp-button-brand-bg: #16a34a;
+  --vp-button-brand-hover-bg: #15803d;
+  --vp-button-brand-active-bg: #166534;
+  --vp-button-brand-text: #ffffff;
+
+  --vp-custom-block-tip-border: #16a34a;
+  --vp-custom-block-tip-text: #16a34a;
+  --vp-custom-block-tip-bg: rgba(22, 163, 74, 0.08);
+
+  --vp-sidebar-bg-color: rgba(255, 255, 255, 0.6);
+  --vp-c-bg-soft: #f8fafc;
+
+  --vp-badge-info-bg: rgba(22, 163, 74, 0.1);
+  --vp-badge-info-text: #16a34a;
+  --vp-badge-info-border: rgba(22, 163, 74, 0.2);
+}
+
+/* --- CSS Variables (Dark Mode) --- */
+.dark {
+  --vp-c-brand-1: #22c55e;
+  --vp-c-brand-2: #16a34a;
+  --vp-c-brand-3: #4ade80;
+  --vp-c-brand-soft: rgba(34, 197, 94, 0.16);
+  --vp-c-brand-light: #4ade80;
+  --vp-c-brand-lighter: #86efac;
+  --vp-c-brand-dark: #15803d;
+  --vp-c-brand-darker: #166534;
+
+  --vp-home-hero-name-background: linear-gradient(135deg, #22c55e, #4ade80, #86efac);
+  --vp-home-hero-image-background-image: linear-gradient(135deg, #22c55e33 0%, #4ade8033 50%, #86efac33 100%);
+
+  --vp-button-brand-bg: #16a34a;
+  --vp-button-brand-hover-bg: #22c55e;
+  --vp-button-brand-active-bg: #15803d;
+
+  --vp-sidebar-bg-color: rgba(15, 23, 42, 0.6);
+  --vp-c-bg-soft: #0f172a;
+
+  --vp-custom-block-tip-border: #22c55e;
+  --vp-custom-block-tip-text: #22c55e;
+  --vp-custom-block-tip-bg: rgba(34, 197, 94, 0.1);
+
+  --vp-badge-info-bg: rgba(34, 197, 94, 0.15);
+  --vp-badge-info-text: #22c55e;
+  --vp-badge-info-border: rgba(34, 197, 94, 0.3);
+}
+
+/* --- Splash / Home Hero Enhancements --- */
+.VPHomeHero .clip {
+  -webkit-background-clip: text;
+  background-clip: text;
+  letter-spacing: -0.02em;
+}
+
+.VPHomeHero .VPImage {
+  filter: drop-shadow(0 0 40px rgba(22, 163, 74, 0.15));
+  transition: transform 0.3s ease, filter 0.3s ease;
+}
+
+.VPHomeHero .VPImage:hover {
+  transform: scale(1.05) rotate(-2deg);
+  filter: drop-shadow(0 0 60px rgba(22, 163, 74, 0.3));
+}
+
+/* --- Feature Cards --- */
+.VPFeature {
+  background: var(--vp-c-bg-soft) !important;
+  backdrop-filter: blur(12px);
+  border: 1px solid transparent;
+  transition: all 0.25s ease;
+  border-radius: 12px !important;
+}
+
+.VPFeature:hover {
+  border-color: var(--vp-c-brand-2) !important;
+  transform: translateY(-4px);
+  box-shadow: 0 12px 40px rgba(22, 163, 74, 0.1);
+}
+
+.VPFeature .icon {
+  font-size: 1.75rem;
+  transition: transform 0.2s ease;
+}
+
+.VPFeature:hover .icon {
+  transform: scale(1.15);
+}
+
+.VPFeature h2 {
+  margin: 0;
+  border: none;
+  font-size: 1.125rem;
+}
+
+.VPFeature .details {
+  color: var(--vp-c-text-2);
+  line-height: 1.6;
+}
+
+/* --- Sidebar --- */
+.VPSidebar {
+  background: var(--vp-sidebar-bg-color) !important;
+  backdrop-filter: blur(8px);
+}
+
+.VPSidebar .group + .group {
+  border-top: 1px solid var(--vp-c-divider);
+  padding-top: 8px;
+  margin-top: 8px;
+}
+
+.VPSidebar .item .link:hover {
+  color: var(--vp-c-brand-1);
+}
+
+.VPSidebar .item .link.active {
+  background: var(--vp-c-brand-soft);
+  border-right: 3px solid var(--vp-c-brand-1);
+}
+
+/* --- Nav --- */
+.VPNav {
+  backdrop-filter: blur(12px);
+  background: rgba(255, 255, 255, 0.7) !important;
+  border-bottom: 1px solid var(--vp-c-divider);
+}
+
+.dark .VPNav {
+  background: rgba(15, 23, 42, 0.7) !important;
+}
+
+.VPNav .item.active > a {
+  color: var(--vp-c-brand-1) !important;
+}
+
+/* --- Code Blocks: Vim Terminal Vibe --- */
+.vp-doc div[class*='language-'] {
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.vp-doc div[class*='language-'] pre {
+  background: #1a1a2e !important;
+}
+
+.vp-doc .language-bash .lang,
+.vp-doc .language-sh .lang {
+  color: #4ade80 !important;
+}
+
+.vp-doc .language-vim .lang {
+  color: #4ade80 !important;
+}
+
+/* --- Terminal-style borders for vim/blocks --- */
+.vp-doc div[class*='language-']::before {
+  content: '';
+  display: block;
+  height: 28px;
+  background: #1e293b;
+  border-bottom: 1px solid #334155;
+  border-radius: 9px 9px 0 0;
+  background-image:
+    radial-gradient(circle 6px, #ef4444 0, #ef4444 6px, transparent 6px),
+    radial-gradient(circle 6px, #eab308 0, #eab308 6px, transparent 6px),
+    radial-gradient(circle 6px, #22c55e 0, #22c55e 6px, transparent 6px);
+  background-size: 36px 6px, 36px 6px, 36px 6px;
+  background-repeat: no-repeat;
+  background-position: 12px 11px, 30px 11px, 48px 11px;
+}
+
+/* --- Fancy blockquotes --- */
+.vp-doc blockquote {
+  border-left: 4px solid var(--vp-c-brand-1);
+  background: var(--vp-c-brand-soft);
+  border-radius: 0 8px 8px 0;
+  padding: 12px 20px;
+}
+
+.vp-doc blockquote p {
+  margin: 0;
+}
+
+/* --- Headers --- */
+.vp-doc h2 {
+  border-bottom: 2px solid var(--vp-c-divider);
+  padding-bottom: 8px;
+  margin-top: 48px;
+}
+
+.vp-doc h2::before {
+  content: '# ';
+  color: var(--vp-c-brand-1);
+  font-weight: 700;
+}
+
+.vp-doc h3::before {
+  content: '## ';
+  color: var(--vp-c-brand-2);
+  font-weight: 600;
+  font-size: 0.9em;
+}
+
+/* --- Tables: styled like a vim colorscheme --- */
+.vp-doc table {
+  border-collapse: separate;
+  border-spacing: 0;
+  border-radius: 8px;
+  overflow: hidden;
+  border: 1px solid var(--vp-c-divider);
+}
+
+.vp-doc th {
+  background: var(--vp-c-brand-soft);
+  color: var(--vp-c-brand-1);
+  font-weight: 600;
+  text-transform: uppercase;
+  font-size: 0.85em;
+  letter-spacing: 0.05em;
+}
+
+.vp-doc tr:nth-child(even) {
+  background: var(--vp-c-brand-soft);
+}
+
+.vp-doc tr:hover {
+  background: rgba(22, 163, 74, 0.05);
+}
+
+/* --- Badges / Tags --- */
+.vp-doc .custom-block.tip {
+  border-radius: 8px;
+}
+
+.vp-doc .custom-block.danger {
+  border-left-color: #ef4444;
+}
+
+/* --- Footer --- */
+.VPFooter {
+  border-top: 1px solid var(--vp-c-divider);
+  padding: 24px 0;
+}
+
+/* --- Smooth scroll --- */
+html {
+  scroll-behavior: smooth;
+}
+
+/* --- Selection --- */
+::selection {
+  background: var(--vp-c-brand-soft);
+  color: var(--vp-c-brand-1);
+}
+
+/* --- Button animations --- */
+.VPButton.brand {
+  transition: all 0.25s ease;
+  box-shadow: 0 4px 14px rgba(22, 163, 74, 0.25);
+}
+
+.VPButton.brand:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(22, 163, 74, 0.4);
+}
+
+.VPButton.alt {
+  transition: all 0.25s ease;
+}
+
+.VPButton.alt:hover {
+  transform: translateY(-2px);
+}
+
+/* --- Key caps (for keyboard shortcuts) --- */
+kbd {
+  display: inline-block;
+  padding: 3px 8px;
+  font-size: 0.85em;
+  font-family: 'Courier New', monospace;
+  background: var(--vp-c-bg-soft);
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 6px;
+  box-shadow: 0 2px 2px rgba(0,0,0,0.08);
+  color: var(--vp-c-brand-1);
+}
