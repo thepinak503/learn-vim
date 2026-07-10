@@ -177,4 +177,5 @@ Happy editing!
 
 ---
 
-**[Back to Table of Contents](../TOC.md)**
+
+[⬆ Back to TOC](../TOC.md) | [🏠 Back to README](../README.md)

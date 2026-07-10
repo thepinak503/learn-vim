@@ -139,3 +139,6 @@ Capital letter = append.
 [**Chapter 38 — Buffers**](38-buffers.md)
 
 Work with multiple files using Vim's buffer system.
+---
+
+[⬆ Back to TOC](../TOC.md) | [🏠 Back to README](../README.md)

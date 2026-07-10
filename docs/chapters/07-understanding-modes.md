@@ -319,3 +319,6 @@ Watch this indicator—it tells you what mode you're in.
 [**Chapter 8 — Opening, Saving and Quitting**](08-opening-saving-quitting.md)
 
 Master the essential file operations that you'll use every day.
+---
+
+[⬆ Back to TOC](../TOC.md) | [🏠 Back to README](../README.md)

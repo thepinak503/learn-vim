@@ -163,3 +163,6 @@ Replaces `hello world` with `hello there`.
 [**Chapter 21 — Repeat (.)**](21-repeat.md)
 
 Master the dot command — Vim's most powerful repetition tool.
+---
+
+[⬆ Back to TOC](../TOC.md) | [🏠 Back to README](../README.md)

@@ -185,3 +185,6 @@ This is one of the most frequently used Vim commands.
 [**Chapter 18 — Copy & Paste**](18-copy-paste.md)
 
 Master yanking (copying) and putting (pasting) in Vim.
+---
+
+[⬆ Back to TOC](../TOC.md) | [🏠 Back to README](../README.md)

@@ -73,3 +73,6 @@ Jumps are recorded for:
 [**Chapter 42 — Change List**](42-change-list.md)
 
 Track and navigate your edit history.
+---
+
+[⬆ Back to TOC](../TOC.md) | [🏠 Back to README](../README.md)

@@ -118,3 +118,6 @@ These are like `i{` / `a{` but operate on the outermost block.
 [**Chapter 30 — Advanced Editing: Search and Replace**](30-advanced-text-objects.md)
 
 Master complex search and replace operations.
+---
+
+[⬆ Back to TOC](../TOC.md) | [🏠 Back to README](../README.md)

@@ -308,3 +308,6 @@ These provide:
 **[Chapter 5 — Installing Vim & Neovim](05-installing-vim.md)**
 
 We'll walk through installing Vim and Neovim on Linux, Windows, and macOS, with detailed steps for each operating system.
+---
+
+[⬆ Back to TOC](../TOC.md) | [🏠 Back to README](../README.md)

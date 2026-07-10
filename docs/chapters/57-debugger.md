@@ -80,3 +80,6 @@ nnoremap <leader>di :DapStepInto<CR>
 [**Chapter 58 — Which-key**](58-which-key.md)
 
 Discover key mappings as you type.
+---
+
+[⬆ Back to TOC](../TOC.md) | [🏠 Back to README](../README.md)

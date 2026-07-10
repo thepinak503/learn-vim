@@ -132,3 +132,6 @@ The fox jumps over the lazy dog.
 [**Chapter 23 — Visual Mode: Line Selection**](23-visual-mode-line.md)
 
 Select entire lines in visual mode for efficient line-based editing.
+---
+
+[⬆ Back to TOC](../TOC.md) | [🏠 Back to README](../README.md)

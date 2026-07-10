@@ -72,3 +72,6 @@ tnoremap <Esc> <C-\><C-n>
 [**Chapter 57 — Debugger**](57-debugger.md)
 
 Debug your code inside Neovim.
+---
+
+[⬆ Back to TOC](../TOC.md) | [🏠 Back to README](../README.md)

@@ -203,3 +203,6 @@ If you change inside quotes with `ci"`, then press `.` somewhere else inside quo
 [**Chapter 11 — Word Motions**](11-word-motions.md)
 
 Master word-level navigation—the motions you'll use most frequently.
+---
+
+[⬆ Back to TOC](../TOC.md) | [🏠 Back to README](../README.md)

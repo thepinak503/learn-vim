@@ -442,3 +442,6 @@ After reading this chapter, you should understand that:
 **[Chapter 2 — Why Learn Vim?](02-why-learn-vim.md)**
 
 We'll explore the real productivity benefits of Vim, where it shines, where it doesn't, and whether it's the right tool for your workflow.
+---
+
+[⬆ Back to TOC](../TOC.md) | [🏠 Back to README](../README.md)

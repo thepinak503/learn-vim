@@ -76,3 +76,6 @@ require("which-key").register({
 [**Chapter 59 — Editing Code**](59-editing-code.md)
 
 Practical editing workflows for daily coding.
+---
+
+[⬆ Back to TOC](../TOC.md) | [🏠 Back to README](../README.md)

@@ -697,3 +697,6 @@ Learning Vim is an investment. The first days require patience, but the habits y
 **[Chapter 3 — What Is Vim?](03-what-is-vim.md)**
 
 We'll dive deeper into Vim's history, architecture, design philosophy, and understand the differences between **Vi**, **Vim**, **Neovim**, and graphical Vim variants before writing our first real commands.
+---
+
+[⬆ Back to TOC](../TOC.md) | [🏠 Back to README](../README.md)

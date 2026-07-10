@@ -106,3 +106,6 @@ Plugin overload makes Vim slow and complex.
 [**Chapter 64 — Practice Exercises**](64-practice-exercises.md)
 
 Practice exercises to build your Vim skills.
+---
+
+[⬆ Back to TOC](../TOC.md) | [🏠 Back to README](../README.md)

@@ -181,3 +181,6 @@ All deletions can be undone.
 [**Chapter 17 — Change Commands**](17-change-commands.md)
 
 Learn how to delete text and immediately enter insert mode to replace it.
+---
+
+[⬆ Back to TOC](../TOC.md) | [🏠 Back to README](../README.md)

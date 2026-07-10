@@ -83,3 +83,6 @@ p           →   Paste below
 [**Chapter 61 — Navigation Tricks**](61-navigation-tricks.md)
 
 Advanced navigation techniques.
+---
+
+[⬆ Back to TOC](../TOC.md) | [🏠 Back to README](../README.md)

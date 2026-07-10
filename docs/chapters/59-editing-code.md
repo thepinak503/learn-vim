@@ -85,3 +85,6 @@ gc3j        →   Comment 3 lines down
 [**Chapter 60 — Refactoring**](60-refactoring.md)
 
 Efficient refactoring techniques in Vim.
+---
+
+[⬆ Back to TOC](../TOC.md) | [🏠 Back to README](../README.md)

@@ -170,3 +170,6 @@ p           →   put "apple " after "banana"
 [**Chapter 19 — Undo / Redo**](19-undo-redo.md)
 
 Learn how to undo and redo changes in Vim, including branching undo history.
+---
+
+[⬆ Back to TOC](../TOC.md) | [🏠 Back to README](../README.md)

@@ -815,3 +815,6 @@ In this chapter, you've learned that:
 **[Chapter 4 — Installing Vim & Neovim](04-vim-vs-vi-vs-neovim.md)**
 
 You'll learn how to install Vim and Neovim on **Linux**, **Windows**, and **macOS**, verify your installation, understand the difference between terminal and GUI versions, and create your first configuration file.
+---
+
+[⬆ Back to TOC](../TOC.md) | [🏠 Back to README](../README.md)

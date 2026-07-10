@@ -85,3 +85,6 @@ It installs:
 [**Chapter 52 — LSP Configuration**](52-lsp.md)
 
 Set up language server protocol in Neovim.
+---
+
+[⬆ Back to TOC](../TOC.md) | [🏠 Back to README](../README.md)

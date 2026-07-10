@@ -103,3 +103,6 @@ Required for modern colorschemes.
 [**Chapter 48 — Installing Neovim**](48-installing-neovim.md)
 
 Get started with Neovim.
+---
+
+[⬆ Back to TOC](../TOC.md) | [🏠 Back to README](../README.md)

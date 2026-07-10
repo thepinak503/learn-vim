@@ -361,3 +361,6 @@ If the file doesn't exist, Vim creates a new empty buffer.
 **[Chapter 6 — Your First Launch](06-your-first-launch.md)**
 
 We'll open Vim, understand the screen layout, and learn how to perform basic tasks right away.
+---
+
+[⬆ Back to TOC](../TOC.md) | [🏠 Back to README](../README.md)

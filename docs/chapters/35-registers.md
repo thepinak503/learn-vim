@@ -93,3 +93,6 @@ Shows specific registers.
 [**Chapter 36 — Marks**](36-marks.md)
 
 Set waypoints in your files for quick navigation.
+---
+
+[⬆ Back to TOC](../TOC.md) | [🏠 Back to README](../README.md)

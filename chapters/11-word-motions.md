@@ -206,3 +206,6 @@ Open a file and try:
 [**Chapter 12 — Line Motions**](12-line-motions.md)
 
 Master navigating to the beginnings and ends of lines—indispensable for editing code.
+---
+
+[⬆ Back to TOC](../TOC.md) | [🏠 Back to README](../README.md)

@@ -172,3 +172,6 @@ ci( → changes "bar(x, y)" (outer pair)
 [**Chapter 27 — Text Objects: Quotes**](27-text-objects-quotes.md)
 
 Edit text inside quotes with a single command.
+---
+
+[⬆ Back to TOC](../TOC.md) | [🏠 Back to README](../README.md)

@@ -77,3 +77,6 @@ Windows let you view multiple buffers at the same time in splits.
 [**Chapter 40 — Tabs**](40-tabs.md)
 
 Organize your workflow with Vim tabs.
+---
+
+[⬆ Back to TOC](../TOC.md) | [🏠 Back to README](../README.md)

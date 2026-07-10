@@ -98,3 +98,6 @@ It provides:
 [**Chapter 55 — Git Integration**](55-git.md)
 
 Use Git inside Neovim.
+---
+
+[⬆ Back to TOC](../TOC.md) | [🏠 Back to README](../README.md)

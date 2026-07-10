@@ -68,3 +68,6 @@ They let you organize different working contexts.
 [**Chapter 41 — Jump List**](41-jump-list.md)
 
 Navigate through your cursor position history.
+---
+
+[⬆ Back to TOC](../TOC.md) | [🏠 Back to README](../README.md)

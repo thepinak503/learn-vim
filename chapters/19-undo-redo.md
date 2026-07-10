@@ -136,3 +136,6 @@ This lets you undo changes even after closing and reopening a file.
 [**Chapter 20 — Replace**](20-replace.md)
 
 Replace characters and text patterns in Vim.
+---
+
+[⬆ Back to TOC](../TOC.md) | [🏠 Back to README](../README.md)

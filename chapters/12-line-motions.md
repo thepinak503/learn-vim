@@ -154,3 +154,6 @@ Line 1 Line 2
 [**Chapter 13 — File Motions**](13-file-motions.md)
 
 Navigate across an entire file in seconds using jumps and scroll commands.
+---
+
+[⬆ Back to TOC](../TOC.md) | [🏠 Back to README](../README.md)

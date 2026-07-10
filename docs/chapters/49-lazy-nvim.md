@@ -111,3 +111,6 @@ require("lazy").setup({
 [**Chapter 50 — Treesitter**](50-treesitter.md)
 
 Better syntax highlighting and code analysis.
+---
+
+[⬆ Back to TOC](../TOC.md) | [🏠 Back to README](../README.md)

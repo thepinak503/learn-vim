@@ -119,3 +119,6 @@ Or for Vimscript:
 [**Chapter 49 — lazy.nvim**](49-lazy-nvim.md)
 
 The modern plugin manager for Neovim.
+---
+
+[⬆ Back to TOC](../TOC.md) | [🏠 Back to README](../README.md)

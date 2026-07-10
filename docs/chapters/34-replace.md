@@ -76,3 +76,6 @@ Replace in visual selection (automatic when selecting then `:`).
 [**Chapter 35 — Registers**](35-registers.md)
 
 Master Vim's multiple clipboards.
+---
+
+[⬆ Back to TOC](../TOC.md) | [🏠 Back to README](../README.md)

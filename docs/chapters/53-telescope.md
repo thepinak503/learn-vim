@@ -93,3 +93,6 @@ vim.keymap.set("n", "<leader>fb", require("telescope.builtin").buffers)
 [**Chapter 54 — nvim-cmp**](54-nvim-cmp.md)
 
 Autocompletion for Neovim.
+---
+
+[⬆ Back to TOC](../TOC.md) | [🏠 Back to README](../README.md)

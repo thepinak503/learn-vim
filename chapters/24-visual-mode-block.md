@@ -155,3 +155,6 @@ Carol   SF
 [**Chapter 25 — Text Objects: iw and aw**](25-text-objects-iw-aw.md)
 
 Edit structured text objects like words with precision.
+---
+
+[⬆ Back to TOC](../TOC.md) | [🏠 Back to README](../README.md)

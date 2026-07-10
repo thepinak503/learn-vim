@@ -83,3 +83,6 @@ Shows all buffers with their state:
 [**Chapter 39 — Windows**](39-windows.md)
 
 Split your workspace into multiple windows.
+---
+
+[⬆ Back to TOC](../TOC.md) | [🏠 Back to README](../README.md)

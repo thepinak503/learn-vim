@@ -64,3 +64,6 @@ Sets the search pattern to `foo`.
 [**Chapter 34 — Replace**](34-replace.md)
 
 Advanced replacement techniques with patterns.
+---
+
+[⬆ Back to TOC](../TOC.md) | [🏠 Back to README](../README.md)

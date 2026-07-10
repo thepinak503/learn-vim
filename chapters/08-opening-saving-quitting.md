@@ -305,3 +305,6 @@ Inserts the current date and time.
 [**Chapter 9 — Cursor Movement**](09-cursor-movement.md)
 
 Now that you can open and save files, let's learn how to move around efficiently.
+---
+
+[⬆ Back to TOC](../TOC.md) | [🏠 Back to README](../README.md)

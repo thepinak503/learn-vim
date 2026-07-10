@@ -97,3 +97,6 @@ nnoremap <leader>bp :bp<CR>
 [**Chapter 46 — Plugins**](46-plugins.md)
 
 Extend Vim with plugins.
+---
+
+[⬆ Back to TOC](../TOC.md) | [🏠 Back to README](../README.md)

@@ -78,3 +78,6 @@ With lazy.nvim:
 [**Chapter 51 — Mason**](51-mason.md)
 
 Install LSP servers, linters, and formatters.
+---
+
+[⬆ Back to TOC](../TOC.md) | [🏠 Back to README](../README.md)
