@@ -1,34 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 256" width="480" height="256">
-  <defs>
-    <linearGradient id="vimGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#16a34a;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#22c55e;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="nvimGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#10b981;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#34d399;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="plusGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f59e0b;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#fbbf24;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  <!-- Vim Hexagon (left) -->
-  <polygon points="100,20 180,62 180,194 100,236 20,194 20,62" fill="url(#vimGrad)" stroke="#166534" stroke-width="4" stroke-linejoin="round"/>
-  <text x="100" y="140" font-family="'Courier New', monospace" font-size="64" font-weight="900" fill="#0f172a" text-anchor="middle" letter-spacing="5">VIM</text>
-
-  <!-- Plus sign -->
-  <text x="215" y="148" font-family="'Courier New', monospace" font-size="48" font-weight="900" fill="url(#plusGrad)" text-anchor="middle">+</text>
-
-  <!-- Neovim Hexagon (right) -->
-  <polygon points="380,20 460,62 460,194 380,236 300,194 300,62" fill="url(#nvimGrad)" stroke="#065f46" stroke-width="4" stroke-linejoin="round"/>
-  <text x="380" y="140" font-family="'Courier New', monospace" font-size="52" font-weight="900" fill="#0f172a" text-anchor="middle" letter-spacing="4">NVIM</text>
-
-  <!-- Blinking cursors -->
-  <rect x="78" y="178" width="3" height="14" fill="#fbbf24" rx="1.5">
-    <animate attributeName="opacity" values="1;0;1" dur="1.2s" repeatCount="indefinite"/>
-  </rect>
-  <rect x="358" y="178" width="3" height="14" fill="#818cf8" rx="1.5">
-    <animate attributeName="opacity" values="1;0;1" dur="1.2s" repeatCount="indefinite"/>
-  </rect>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 350" width="1000" height="350">
+  <title>Vim + Neovim Official Logos</title>
+  <!-- Official Vim logo (GPL v2+) -->
+  <image href="vim-logo.svg" x="40" y="25" width="300" height="300"/>
+  <!-- & divider -->
+  <text x="375" y="200" font-family="'Courier New', monospace" font-size="36" font-weight="bold" fill="#16a34a" text-anchor="middle" opacity="0.6">&amp;</text>
+  <!-- Official Neovim logo (CC BY 3.0, Jason Long) -->
+  <image href="neovim-logo.svg" x="420" y="70" width="540" height="170"/>
 </svg>
