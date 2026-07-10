@@ -5,6 +5,9 @@ export default defineConfig({
   description: "A comprehensive guide to Vim and Neovim — from absolute beginner to advanced user",
   base: '/learn-vim/',
   ignoreDeadLinks: true,
+  head: [
+    ['link', { rel: 'icon', href: '/learn-vim/favicon.svg', type: 'image/svg+xml' }],
+  ],
   themeConfig: {
     nav: [
       { text: 'Home', link: '/' },
