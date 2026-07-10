@@ -1,0 +1,28 @@
+{
+  "name": "learn-vim",
+  "version": "1.0.0",
+  "description": "📖 A comprehensive guide to Vim and Neovim — from absolute beginner to advanced user.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thepinak503/learn-vim.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/thepinak503/learn-vim/issues"
+  },
+  "homepage": "https://github.com/thepinak503/learn-vim#readme",
+  "devDependencies": {
+    "vitepress": "^1.6.4",
+    "vue": "^3.5.39"
+  }
+}
