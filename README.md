@@ -6,6 +6,14 @@
 
 ---
 
+## 🌐 Live Website
+
+> **👉 [https://thepinak503.github.io/learn-vim/](https://thepinak503.github.io/learn-vim/)**
+>
+> Browse the full handbook online with sidebar navigation, search, and interactive exercises.
+
+---
+
 ## Table of Contents
 
 This handbook contains **65 chapters** organized into **10 parts**, covering everything from your first keystrokes to building a fully customized Neovim IDE.
